@@ -12,9 +12,9 @@
         @vite('resources/css/app.css')
     </head>
     <body class="antialiased">
-  <div class="w-1/2 container mx-auto flex flex-wrap justify-center">
-        <p class="text-center text-4xl">Blog app con Laravel</p>
-        <a href="/listado" class=" border-2 border-black p-2 bg-blue-200">Entrar al Listado</a>
+    <div class="w-1/2 container mx-auto flex flex-wrap justify-center">
+        <p class="text-center text-4xl">Has entrado en listado</p>
+        <a href="/" class=" border-2 border-black p-2 bg-green-500">Volver a la home</a>
     </div>
     </body>
 </html>
